@@ -1,12 +1,18 @@
-# Hi there 👋, I'm Praveen Kanth R
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Praveen Kanth R
+</h1>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross-Platform+App+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Flutter+Developer;Cross-Platform+App+Developer;Mobile+%26+Web+Application+Developer" />
 
 </div>
 
-
+<p align="center">
 📍 Bengaluru, Karnataka, India
+</p>
+
 
 ---
 
