@@ -1,8 +1,5 @@
-## 📊 GitHub Stats
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-dev-pixel&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-dev-pixel&layout=compact)
+Hi there 👋, I'm Praveen Kanth R
+Flutter Developer | Mobile & Web Application Developer
 
 📍 Bengaluru, Karnataka, India
 
@@ -71,42 +68,13 @@ philosophy:
 ---
 
 ## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Mobile Development
-
-* Flutter
-* Dart
-
-### State Management
-
-* Provider
-
-### Frontend
-
-* React
-* JavaScript
-* HTML5
-* CSS3
-
-### Backend / BaaS
-
-* Supabase
-* PostgreSQL
-
-### Programming Languages
-
-* Dart
-* Java
-* JavaScript
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* Vercel
-
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)---
 
 ## 📌 Featured Projects
 
