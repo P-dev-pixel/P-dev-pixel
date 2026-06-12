@@ -1,4 +1,4 @@
-Hi there 👋, I'm Praveen Kanth R
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Praveen+Kanth+R" />
 Flutter Developer | Mobile & Web Application Developer
 
 📍 Bengaluru, Karnataka, India
