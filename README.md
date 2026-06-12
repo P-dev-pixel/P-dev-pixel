@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Praveen+Kanth+R" />
-Flutter Developer | Mobile & Web Application Developer
+# Hi there 👋, I'm Praveen Kanth R
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B388FF&center=true&vCenter=true&width=500&lines= Flutter Developer + | + Mobile & Web Application Developer" />
 
 📍 Bengaluru, Karnataka, India
 
@@ -68,13 +68,42 @@ philosophy:
 ---
 
 ## 🛠️ Tech Stack
-## 🛠 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)---
+### Mobile Development
+
+* Flutter
+* Dart
+
+### State Management
+
+* Provider
+
+### Frontend
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+
+### Backend / BaaS
+
+* Supabase
+* PostgreSQL
+
+### Programming Languages
+
+* Dart
+* Java
+* JavaScript
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* Vercel
+
+---
 
 ## 📌 Featured Projects
 
