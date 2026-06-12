@@ -1,6 +1,8 @@
-# Hi there 👋, I'm Praveen Kanth R
+## 📊 GitHub Stats
 
-### Flutter Developer | Mobile & Web Application Developer
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-dev-pixel&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-dev-pixel&layout=compact)
 
 📍 Bengaluru, Karnataka, India
 
@@ -23,7 +25,6 @@ focus:
 
 currently_learning:
   - Advanced Flutter
-  - Spring Boot
   - Data Structures & Algorithms
   - Backend Development
 
