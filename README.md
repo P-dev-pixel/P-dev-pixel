@@ -1,5 +1,9 @@
 # Hi there 👋, I'm Praveen Kanth R
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E7D32&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+%26+Web+Application+Developer" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross-Platform+App+Developer" />
+
+</div>
 
 
 📍 Bengaluru, Karnataka, India
